@@ -1,0 +1,14 @@
+C:\SOFT\1_csharp\Lesson1\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\SOFT\1_csharp\Lesson1\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\SOFT\1_csharp\Lesson1\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\SOFT\1_csharp\Lesson1\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\SOFT\1_csharp\Lesson1\Task3\bin\Debug\net7.0\Task3.exe
+C:\SOFT\1_csharp\Lesson1\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\SOFT\1_csharp\Lesson1\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\SOFT\1_csharp\Lesson1\Task3\bin\Debug\net7.0\Task3.dll
+C:\SOFT\1_csharp\Lesson1\Task3\bin\Debug\net7.0\Task3.pdb
+C:\SOFT\1_csharp\Lesson1\Task3\obj\Debug\net7.0\Task3.dll
+C:\SOFT\1_csharp\Lesson1\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\SOFT\1_csharp\Lesson1\Task3\obj\Debug\net7.0\Task3.pdb
+C:\SOFT\1_csharp\Lesson1\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\SOFT\1_csharp\Lesson1\Task3\obj\Debug\net7.0\ref\Task3.dll
